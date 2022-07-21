@@ -1,3 +1,3 @@
 # columncards
 
-Links:- https://imranshaikh9930.github.io/columncards/
+Link:- https://imranshaikh9930.github.io/columncards/
